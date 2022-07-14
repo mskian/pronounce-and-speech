@@ -1,0 +1,47 @@
+{
+  "name": "pronounce-and-speech",
+  "version": "0.0.1",
+  "description": "Pronounce and Speech Text - Enter Word and Get the Pronunciation and Speech Text.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "start": "http-server ./public -c-1 --p 3001",
+    "lint": "eslint . --ext .js --cache",
+    "lintfix": "eslint --fix index.js",
+    "css": "tailwindcss -m -i ./styles/tailwind.css -o public/build/app.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskian/pronounce-and-speech.git"
+  },
+  "keywords": [
+    "Pronounce",
+    "speech"
+  ],
+  "author": "Santhosh Veer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mskian/pronounce-and-speech/issues"
+  },
+  "homepage": "https://github.com/mskian/pronounce-and-speech#readme",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.1",
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "@tailwindcss/forms": "^0.5.2",
+    "autoprefixer": "^10.4.7",
+    "eslint": "^8.19.0",
+    "http-server": "^14.1.1",
+    "postcss": "^8.4.14",
+    "rollup": "^2.76.0",
+    "rollup-plugin-livereload": "^2.0.5",
+    "rollup-plugin-terser": "^7.0.2",
+    "tailwindcss": "^3.1.6"
+  },
+  "dependencies": {
+    "compromise": "^14.4.0",
+    "compromise-speech": "^0.1.0"
+  }
+}
