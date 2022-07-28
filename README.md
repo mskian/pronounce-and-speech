@@ -10,7 +10,7 @@ Pronounce and Speech Text - Enter Word and Get the Pronunciation and Speech Text
 - rollup - Minify the Bundled JS
 - Node `http-server` - Test the Site Locally
 - Eslint
-- Cloudflar Pages for Hosting - `npx wrangler pages publish public`
+- Cloudflar Pages for Hosting - `npx wrangler pages publish public --branch production`
 
 ## LICENSE ☑
 

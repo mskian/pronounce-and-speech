@@ -8,7 +8,22 @@
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         <meta name="theme-color" content="#ffffff" />
-        <link rel="shortcut icon" href="/icon.png" type="image/png" />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="196x196"
+            href="/icons/favicon-196.png"
+        />
+        <link
+            rel="shortcut icon"
+            type="image/x-icon"
+            href="/icons/favicon.ico"
+        />
+        <link rel="apple-touch-icon" href="/icons/apple-icon-180.png" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="application-name" content="Pronounce" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-title" content="Pronounce" />
         <link rel="canonical" href="/" />
         <title>Pronounce and Speech Text 🗣</title>
         <meta
@@ -18,10 +33,11 @@
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link rel="stylesheet" type="text/css" href="/build/app.css" />
+        <link rel="manifest" href="/manifest.json" />
     </head>
     <body>
         <div
-            class="min-h-screen px-4 py-16 mx-auto sm:px-6 lg:px-8 bg-zinc-600"
+            class="min-h-screen px-4 py-16 mx-auto sm:px-6 lg:px-8 bg-slate-300"
         >
             <div class="max-w-lg mx-auto">
                 <h1
@@ -30,7 +46,7 @@
                     Pronounce and Speech Text 🗣
                 </h1>
                 <p
-                    class="max-w-md mx-auto mt-4 text-center text-zinc-300 font-bold"
+                    class="max-w-md mx-auto mt-4 text-center text-zinc-600 font-bold"
                 >
                     Pronounce and Speech Text - Enter Word and Get the
                     Pronunciation and Speech Text.
@@ -38,7 +54,7 @@
                 <br />
                 <form
                     id="postData"
-                    class="p-8 mt-6 mb-0 space-y-4 rounded-lg shadow-2xl bg-amber-200"
+                    class="p-8 mt-6 mb-0 space-y-4 rounded-lg shadow-2xl bg-stone-400"
                     onsubmit="return false;"
                 >
                     <div>
@@ -61,7 +77,7 @@
                     </div>
                     <button
                         type="submit"
-                        class="block w-full px-5 py-3 text-lg font-medium text-white bg-purple-600 rounded-lg"
+                        class="block w-full px-5 py-3 text-lg font-medium text-neutral-600 bg-orange-300 rounded-lg"
                     >
                         Get Now
                     </button>
