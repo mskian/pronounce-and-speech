@@ -424,10 +424,10 @@ compromise-speech@^0.1.0:
   resolved "https://registry.yarnpkg.com/compromise-speech/-/compromise-speech-0.1.0.tgz#4ca319787ffec6c1372f3f8aa7f9956cffb0d9c8"
   integrity sha512-+2KS/8T3SH5Hcd6tsCBVfxrkdi7sbJfKAeXGYimQdKGgweDMt0FT03wVCDZ6EgLYxReftkRKp1pxLx2pQLj4Kg==
 
-compromise@^14.4.0:
-  version "14.4.0"
-  resolved "https://registry.yarnpkg.com/compromise/-/compromise-14.4.0.tgz#779d07c90b41606bb4624942ec841ae8a8806e24"
-  integrity sha512-09bovqZT1NX84o/ntjftaY2XMdnm9pLJxB8N7IgAPFwytRNSEevB0aBnVFSR85VyAr+Spcjy6bDk5BYXcKDWkg==
+compromise@^14.4.1:
+  version "14.4.1"
+  resolved "https://registry.yarnpkg.com/compromise/-/compromise-14.4.1.tgz#98a73bb35e16e2e3c89096bca5caadaa508eebe9"
+  integrity sha512-gBBNAX0hLC8/z3j+eQaWkmiL5pXAmRjSb4o9JgwvjXAB8Gp45kTHKV3mpMynl/qr0bLdK4vAdcg9q7shMkr90A==
   dependencies:
     efrt "2.6.0"
     grad-school "0.0.5"
@@ -1400,10 +1400,10 @@ rollup-plugin-terser@^7.0.2:
     serialize-javascript "^4.0.0"
     terser "^5.0.0"
 
-rollup@^2.76.0:
-  version "2.76.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.76.0.tgz#c69fe03db530ac53fcb9523b3caa0d3c0b9491a1"
-  integrity sha512-9jwRIEY1jOzKLj3nsY/yot41r19ITdQrhs+q3ggNWhr9TQgduHqANvPpS32RNpzGklJu3G1AJfvlZLi/6wFgWA==
+rollup@^2.77.2:
+  version "2.77.2"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.77.2.tgz#6b6075c55f9cc2040a5912e6e062151e42e2c4e3"
+  integrity sha512-m/4YzYgLcpMQbxX3NmAqDvwLATZzxt8bIegO78FZLl+lAgKJBd1DRAOeEiZcKOIOPjxE6ewHWHNgGEalFXuz1g==
   optionalDependencies:
     fsevents "~2.3.2"
 
