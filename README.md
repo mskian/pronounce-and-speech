@@ -1,5 +1,7 @@
 # Pronounce and Speech Text  🗣
 
+[![build-script](https://github.com/mskian/pronounce-and-speech/actions/workflows/build.yml/badge.svg)](https://github.com/mskian/pronounce-and-speech/actions/workflows/build.yml)  
+
 Pronounce and Speech Text - Enter Word and Get the Pronunciation and Speech Text.  
 
 ## Methods Used ⚙
