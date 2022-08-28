@@ -439,12 +439,12 @@ compromise-speech@^0.1.0:
   resolved "https://registry.yarnpkg.com/compromise-speech/-/compromise-speech-0.1.0.tgz#4ca319787ffec6c1372f3f8aa7f9956cffb0d9c8"
   integrity sha512-+2KS/8T3SH5Hcd6tsCBVfxrkdi7sbJfKAeXGYimQdKGgweDMt0FT03wVCDZ6EgLYxReftkRKp1pxLx2pQLj4Kg==
 
-compromise@^14.4.5:
-  version "14.4.5"
-  resolved "https://registry.yarnpkg.com/compromise/-/compromise-14.4.5.tgz#be7aa678fc47215deb2ac5eaf07b8aa805a4e42a"
-  integrity sha512-j/ROBYkTMIrzcn2rlZBAX3uPhWCKy9DMkEraI41IKHRBcuookDfkUJgTM5ccS2wfExB/kXRnG9BwzlB1bDIEXA==
+compromise@^14.5.0:
+  version "14.5.0"
+  resolved "https://registry.yarnpkg.com/compromise/-/compromise-14.5.0.tgz#2e0dd260d9c588b94980a296df8ec64713614e2e"
+  integrity sha512-uTUtNv327eBPvkpTZIJ74q+3OJnNZLXE3vq/N7bs0JkmMaPj+k99EtO8qaOuzYJ2PrKeqLJlIP4MVRWGKcXc9Q==
   dependencies:
-    efrt "2.6.0"
+    efrt "2.7.0"
     grad-school "0.0.5"
     suffix-thumb "4.0.2"
 
@@ -564,10 +564,10 @@ domutils@^2.5.2:
     domelementtype "^2.2.0"
     domhandler "^4.2.0"
 
-efrt@2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/efrt/-/efrt-2.6.0.tgz#27854df4b0f596bf7b4444b594a1a58cfad421ca"
-  integrity sha512-uVeV82e9c/n/8/QyWVbbt4jvvbVOvgYwnKE59KpwJ1DD7AGXWytU9v32v5SuvxKNl9V9JaudsMPtztJNY+Batg==
+efrt@2.7.0:
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/efrt/-/efrt-2.7.0.tgz#8b021e69f75cfeed3f81ee058aa0c78265793324"
+  integrity sha512-/RInbCy1d4P6Zdfa+TMVsf/ufZVotat5hCw3QXmWtjU+3pFEOvOQ7ibo3aIxyCJw2leIeAMjmPj+1SLJiCpdrQ==
 
 electron-to-chromium@^1.4.202:
   version "1.4.219"
