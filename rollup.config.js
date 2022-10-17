@@ -3,18 +3,6 @@ import resolve from '@rollup/plugin-node-resolve';
 import livereload from 'rollup-plugin-livereload';
 import { terser } from 'rollup-plugin-terser';
 import json from '@rollup/plugin-json';
-import path from 'path';
-
-const onwarn = warning => {
-    if (
-        warning.code === 'CIRCULAR_DEPENDENCY' &&
-        !warning.importer.indexOf(path.normalize('node_modules/suffix-thumb/'))
-    ) {
-        return;
-    }
-
-    console.warn(`(!) ${warning.message}`);
-};
 
 const production = !process.env.ROLLUP_WATCH;
 
@@ -45,7 +33,6 @@ function serve() {
 
 export default {
     input: 'index.js',
-    onwarn,
     output: {
         sourcemap: true,
         format: 'iife',
