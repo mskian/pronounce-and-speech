@@ -32,7 +32,7 @@ jobs:
       - name: Deploy to cloudflare pages
         run: |
           npm install wrangler -g
-          wrangler pages deploy public --branch production --project-name=pronounce --commit-dirty=true
+          wrangler pages deploy public --project-name=pronounce --commit-dirty=true
         env:
             CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
             CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
