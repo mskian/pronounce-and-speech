@@ -26,4 +26,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
-          command: pages publish public --project-name=pronounce --commit-dirty=true
+          command: pages deploy public --project-name=pronounce --commit-dirty=true
