@@ -549,10 +549,10 @@ compromise-speech@^0.1.0:
   resolved "https://registry.yarnpkg.com/compromise-speech/-/compromise-speech-0.1.0.tgz#4ca319787ffec6c1372f3f8aa7f9956cffb0d9c8"
   integrity sha512-+2KS/8T3SH5Hcd6tsCBVfxrkdi7sbJfKAeXGYimQdKGgweDMt0FT03wVCDZ6EgLYxReftkRKp1pxLx2pQLj4Kg==
 
-compromise@^14.11.0:
-  version "14.11.0"
-  resolved "https://registry.yarnpkg.com/compromise/-/compromise-14.11.0.tgz#802a009df65c6e15541c07627754d08ac906e0b7"
-  integrity sha512-hLvECeYB4jXqXNKto7cr1fev7dZierTdAbHc4Gt15uQTRZ2Piic43pb4cZDBmTQWEbqLtfLbwK7qdWBbQC1zKA==
+compromise@^14.11.1:
+  version "14.11.1"
+  resolved "https://registry.yarnpkg.com/compromise/-/compromise-14.11.1.tgz#3bd9c0d311a73e7e928f978422e0b005e2c6b7e2"
+  integrity sha512-Rb7nWsD+5PaMrzTu+wnGbW459DT5877KTEABsZl34JVJ/QuMRyrc4Jsfe5kDXZI00f2XKrMuiuOJJbppCPQq+A==
   dependencies:
     efrt "2.7.0"
     grad-school "0.0.5"
