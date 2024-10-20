@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "compromise": "^14.14.2",
-    "compromise-speech": "^0.1.0",
+    "compromise-speech": "^0.1.1",
     "sanitize-html": "^2.13.1"
   }
 }
