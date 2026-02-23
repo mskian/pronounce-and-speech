@@ -45,6 +45,6 @@
   "dependencies": {
     "compromise": "^14.14.5",
     "compromise-speech": "^0.1.1",
-    "sanitize-html": "^2.17.0"
+    "sanitize-html": "^2.17.1"
   }
 }
