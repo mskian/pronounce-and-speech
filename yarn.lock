@@ -718,14 +718,14 @@ compromise-speech@^0.1.1:
   resolved "https://registry.yarnpkg.com/compromise-speech/-/compromise-speech-0.1.1.tgz#cf99afef4300b811495c329c2ec228773ada1efc"
   integrity sha512-nTT/zi0cNQXoiwnvJVl6Sm9TLE+esHmjRHISmyPw3DtiLPagpaONFKa/rY/gCgvOGemOkr3i4jOj+gG5YtdsOw==
 
-compromise@^14.16.0:
-  version "14.16.0"
-  resolved "https://registry.yarnpkg.com/compromise/-/compromise-14.16.0.tgz#ed712f9afb1455c92cf2bf0dde99e588da5c7705"
-  integrity sha512-4DFYl/Hl7sW4XWUDfx9S5vxqyYKpZDwwqrpXsQv5acdbVP+joKceIcIaLb0lhVWUpDBV0OnExk/o/dnYUwXnhQ==
+compromise@^14.17.0:
+  version "14.17.0"
+  resolved "https://registry.yarnpkg.com/compromise/-/compromise-14.17.0.tgz#cb569ecd75884f809087c677224156e766a827d3"
+  integrity sha512-zw9iEcts/8tMDASNopMQEs3Pclkx2Xk7XCltAb/oV1LEZcCQpDaalAtFmvuxYo+wnVDsW3H3oT16mw9qVHpkqA==
   dependencies:
     efrt "2.7.0"
     grad-school "0.0.5"
-    suffix-thumb "5.0.2"
+    suffix-thumb "5.0.3"
 
 concat-map@0.0.1:
   version "0.0.1"
@@ -2053,10 +2053,10 @@ sucrase@^3.35.0:
     pirates "^4.0.1"
     ts-interface-checker "^0.1.9"
 
-suffix-thumb@5.0.2:
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/suffix-thumb/-/suffix-thumb-5.0.2.tgz#b38940faddb3ae8b5fd281c7ec5830c25a6b2c9c"
-  integrity sha512-I5PWXAFKx3FYnI9a+dQMWNqTxoRt6vdBdb0O+BJ1sxXCWtSoQCusc13E58f+9p4MYx/qCnEMkD5jac6K2j3dgA==
+suffix-thumb@5.0.3:
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/suffix-thumb/-/suffix-thumb-5.0.3.tgz#0146a4d3725a2a8882929904023a8e6a5473106c"
+  integrity sha512-d77avV91FwJkDA0juRQ19XjE1lE1cNCVIWS0ZRicXqdMN28yjO5LltzEkZBNAWS7qHpn37c1fU4PkIJ/rjJQEA==
 
 supports-color@^5.3.0:
   version "5.5.0"
