@@ -43,7 +43,7 @@
     "tailwindcss": "^3.4.19"
   },
   "dependencies": {
-    "compromise": "^14.18.0",
+    "compromise": "^14.19.0",
     "compromise-speech": "^0.1.1",
     "sanitize-html": "^2.18.1"
   }
