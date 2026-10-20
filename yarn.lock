@@ -718,13 +718,12 @@ compromise-speech@^0.1.1:
   resolved "https://registry.yarnpkg.com/compromise-speech/-/compromise-speech-0.1.1.tgz#cf99afef4300b811495c329c2ec228773ada1efc"
   integrity sha512-nTT/zi0cNQXoiwnvJVl6Sm9TLE+esHmjRHISmyPw3DtiLPagpaONFKa/rY/gCgvOGemOkr3i4jOj+gG5YtdsOw==
 
-compromise@^14.18.0:
-  version "14.18.0"
-  resolved "https://registry.yarnpkg.com/compromise/-/compromise-14.18.0.tgz#57444ecb70f77a78a85a0ec9b75caa29c973cd72"
-  integrity sha512-SCNTeMZN8ZnvDz96igAjV2QuvvmcKA1bVDbFr8IH672Ec9w+fTSxixIPGgrlivaxU+jyk/Ei3AT3gGtP23n6Vg==
+compromise@^14.19.0:
+  version "14.19.0"
+  resolved "https://registry.yarnpkg.com/compromise/-/compromise-14.19.0.tgz#1cf4af1b7dd10404af9cdb7b3f96abfc41895da7"
+  integrity sha512-nA/ClpXt0PaS2Ne389wClhxFBBxV0el3nv6V7XFpoRRQBr8eCnV3Iv4ZY6C5H06UHq1k7bqth73nVc/hv/rrCg==
   dependencies:
     efrt "2.9.0"
-    grad-school "0.0.9"
     suffix-thumb "6.0.0"
 
 concat-map@0.0.1:
@@ -1141,11 +1140,6 @@ globals@^14.0.0:
   version "14.0.0"
   resolved "https://registry.yarnpkg.com/globals/-/globals-14.0.0.tgz#898d7413c29babcf6bafe56fcadded858ada724e"
   integrity sha512-oahGvuMGQlPw/ivIYBjVSrWAfWLBeku5tpPE2fOPLi+WHffIWbuh2tCjhyQhTBPMf5E9jDEH4FOmTYgYwbKwtQ==
-
-grad-school@0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/grad-school/-/grad-school-0.0.9.tgz#68222615b41c8bf45ac372ea831f305dcb9d9ac6"
-  integrity sha512-/aoG9CJz/1gB7x5XKp9i7ggA4k+MqZD7Neph3crfrOLWERkeJFXDXzNefvPW0j97iGTNYqTL+rpBEcz83MTmZw==
 
 has-flag@^3.0.0:
   version "3.0.0"
