@@ -713,10 +713,10 @@ commondir@^1.0.1:
   resolved "https://registry.yarnpkg.com/commondir/-/commondir-1.0.1.tgz#ddd800da0c66127393cca5950ea968a3aaf1253b"
   integrity sha512-W9pAhw0ja1Edb5GVdIF1mjZw/ASI0AlShXM83UUGe2DVr5TdAPEA1OA8m/g8zWp9x6On7gqufY+FatDbC3MDQg==
 
-compromise-speech@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/compromise-speech/-/compromise-speech-0.1.1.tgz#cf99afef4300b811495c329c2ec228773ada1efc"
-  integrity sha512-nTT/zi0cNQXoiwnvJVl6Sm9TLE+esHmjRHISmyPw3DtiLPagpaONFKa/rY/gCgvOGemOkr3i4jOj+gG5YtdsOw==
+compromise-speech@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/compromise-speech/-/compromise-speech-0.2.0.tgz#57a666c462844e911858052974937fb088102c12"
+  integrity sha512-BclgAIma8P6uBEfCfemV15tXTnPGV5FQD06UrkacgAMTyEWIraTBmh7vBz/bc3KLNiGqRQBk/vkV5Pnuhiv3zg==
 
 compromise@^14.19.0:
   version "14.19.0"
