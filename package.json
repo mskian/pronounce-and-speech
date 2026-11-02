@@ -35,7 +35,7 @@
     "autoprefixer": "^10.6.2",
     "eslint": "^9.39.5",
     "http-server": "^14.1.1",
-    "postcss": "^8.5.31",
+    "postcss": "^8.5.32",
     "prettier": "^3.9.10",
     "rollup": "^4.65.1",
     "rollup-plugin-livereload": "^2.0.5",
