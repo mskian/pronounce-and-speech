@@ -718,13 +718,13 @@ compromise-speech@^0.2.0:
   resolved "https://registry.yarnpkg.com/compromise-speech/-/compromise-speech-0.2.0.tgz#57a666c462844e911858052974937fb088102c12"
   integrity sha512-BclgAIma8P6uBEfCfemV15tXTnPGV5FQD06UrkacgAMTyEWIraTBmh7vBz/bc3KLNiGqRQBk/vkV5Pnuhiv3zg==
 
-compromise@^14.19.0:
-  version "14.19.0"
-  resolved "https://registry.yarnpkg.com/compromise/-/compromise-14.19.0.tgz#1cf4af1b7dd10404af9cdb7b3f96abfc41895da7"
-  integrity sha512-nA/ClpXt0PaS2Ne389wClhxFBBxV0el3nv6V7XFpoRRQBr8eCnV3Iv4ZY6C5H06UHq1k7bqth73nVc/hv/rrCg==
+compromise@^14.20.0:
+  version "14.20.0"
+  resolved "https://registry.yarnpkg.com/compromise/-/compromise-14.20.0.tgz#1460ab2322545d463ba7df6b467ca5a3845c9ccf"
+  integrity sha512-XFtjCI4hs8jde5uY/3KqlKQ12dt4h1mAYVPnss0o91ia0971VdluY4ZN9GlxbV9zI8DW2YP+NzGqpnsFFidenA==
   dependencies:
     efrt "2.9.0"
-    suffix-thumb "6.0.0"
+    suffix-thumb "6.1.0"
 
 concat-map@0.0.1:
   version "0.0.1"
@@ -2041,10 +2041,10 @@ sucrase@^3.35.0:
     pirates "^4.0.1"
     ts-interface-checker "^0.1.9"
 
-suffix-thumb@6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/suffix-thumb/-/suffix-thumb-6.0.0.tgz#e599abf2c7368de4127a65eb9a4faa52c1eef452"
-  integrity sha512-HsCTMLaupbob5ZG//ZW6PSj446tHT5kSJ1qXS5F/qO2Nt13uAn6ZLPhJQ/H6bN/jVQCb+pcqe2psEwy4Mp5+Vw==
+suffix-thumb@6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/suffix-thumb/-/suffix-thumb-6.1.0.tgz#8c2664fb5a83ee3d983e95b7fb729a7ec5f2495d"
+  integrity sha512-Lh1ZP+tj1TWnlw3RsR6eY/ARhZ3fIPrquE2Xts/wnGB7j1od2OZbCrWYsahkuaLqY7omsNKDUA6JITtE4elhfw==
 
 supports-color@^5.3.0:
   version "5.5.0"
